@@ -1,16 +1,47 @@
-# React + Vite
+-LyonTec-
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto de uma loja virtual de tecnologia desenvolvido como atividade prática avaliativa da disciplina de React.js.
 
-Currently, two official plugins are available:
+Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A LyonTec é uma loja virtual que apresenta produtos de tecnologia, oferecendo uma experiência simples e organizada para os usuários.
 
-## React Compiler
+Tecnologias utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- JavaScript
+- CSS
+- HTML
+- React Router DOM
 
-## Expanding the ESLint configuration
+Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Página inicial com apresentação da loja.
+- Catálogo com 6 produtos.
+- Cards reutilizáveis com Props.
+- Navegação entre páginas sem recarregar o site.
+- Página Sobre.
+- Formulário de Contato.
+- Página 404 para endereços inexistentes.
+- Layout responsivo.
+
+Conceitos de React aplicados
+
+- Componentes funcionais.
+- Componentização.
+- Passagem de propriedades (Props).
+- Renderização de listas com ".map()".
+- Navegação com React Router DOM.
+
+Como executar o projeto
+
+1. Instale o Node.js.
+2. Abra a pasta do projeto no terminal.
+3. Execute "npm install".
+4. Execute "npm run dev".
+5. Acesse o endereço local exibido no terminal.
+
+---
+
+Projeto desenvolvido para fins acadêmicos.
