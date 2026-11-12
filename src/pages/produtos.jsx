@@ -7,42 +7,42 @@ function Produtos() {
       titulo: "Notebook",
       descricao: "Ideal para trabalho e estudos.",
       preco: "R$ 3.500,00",
-      imagem: "/imagens/notebook.jpg.jpeg"
+      imagem: "/LyonTec/imagens/notebook.jpg.jpeg"
     },
     {
       id: 2,
       titulo: "Smartphone",
       descricao: "Celular moderno e potente.",
       preco: "R$ 2.800,00",
-      imagem: "/imagens/smartphone.jpg.jpeg"
+      imagem: "/LyonTec/imagens/smartphone.jpg.jpeg"
     },
     {
       id: 3,
       titulo: "Headset",
       descricao: "Áudio de excelente qualidade.",
       preco: "R$ 250,00",
-      imagem: "/imagens/headset.jpg.jpeg"
+      imagem: "/LyonTec/imagens/headset.jpg.jpeg"
     },
     {
       id: 4,
       titulo: "Teclado Gamer",
       descricao: "Ideal para jogos e produtividade.",
       preco: "R$ 220,00",
-      imagem: "/imagens/teclado gamer.jpg.jpeg"
+      imagem: "/LyonTec/imagens/teclado gamer.jpg.jpeg"
     },
     {
       id: 5,
       titulo: "Mouse Gamer",
       descricao: "Precisão e conforto.",
       preco: "R$ 120,00",
-      imagem: "/imagens/mouse.jpg.jpeg"
+      imagem: "/LyonTec/imagens/mouse.jpg.jpeg"
     },
     {
       id: 6,
       titulo: "Monitor",
       descricao: "Excelente qualidade de imagem.",
       preco: "R$ 950,00",
-      imagem: "/imagens/monitor.jpg.jpeg"
+      imagem: "/LyonTec/imagens/monitor.jpg.jpeg"
     }
   ];
 
